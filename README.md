@@ -1,7 +1,7 @@
 # ¡ Outer Wouter ! 
-### Pequeña página que explica lo escencial de la libreria wouter. [Link here](https://outerwouter.netlify.app)
+### Pequeña página que explica lo esencial de la libreria wouter. [Link here](https://outerwouter.netlify.app)
 
-Muchos de nosotros nos topamos al principio con el enrutamiento de las *pages* de algún proyecto. Buscamos y encontramos ``React Router``. Pero los que investigamos un poco más descubrimos ``Wouter``, la pequeña librería de enrutamiento. 
+Muchos de nosotros nos topamos al princípio con el enrutamiento de las *pages* de algún proyecto. Buscamos y encontramos ``React Router``. Pero los que investigamos un poco más descubrimos ``Wouter``, la pequeña librería de enrutamiento. 
 
 Más allá de tantos tutoriales de cómo usarla me parecío buena idea poder enseñar lo que es el enrutamiento y cómo funciona Wouter. Tenerla a mano hasta incorporar las principales funciones que utiliza. 
 
